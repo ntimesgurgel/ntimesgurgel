@@ -1,13 +1,13 @@
 # Welcome to my space :smile: <br/> Feel free to look around <br/> I'll bring you some coffee :coffee:
 
-<div style="text-align: center">
-<a href="https://www.linkedin.com/in/ntimesgurgel"><img src="./assets/linkedin.png" style="margin: 5px; width: 100px"></img></a>
-<a href="https://twitter.com/ntimesgurgel"><img src="./assets/twitter.png" style="margin: 5px; width: 100px"></img></a>
+<div style="align: center">
+<a href="https://www.linkedin.com/in/ntimesgurgel"><img src="./assets/linkedin.png" style="margin: 5px; width: 50px"></img></a>
+<a href="https://twitter.com/ntimesgurgel"><img src="./assets/twitter.png" style="margin: 5px; width: 50px"></img></a>
 </div>
 
 ## About me :bust_in_silhouette:
 
-- 26 yo [he/him] 
+- 26 yo [he/him] from :brazil:;
 - :zap: Electrical Engineer by formation;
 - :computer: Developer Enthusiast in the spare time;
 - :microscope: Master Student of Electrical Engineering at UFCG;
@@ -19,7 +19,7 @@
 
 ### Programming Languages
 
-<div style="display: flex; margin: 20px; justify-content: center;text-align:center">
+<div style="display: flex; margin: 20px; align: center; text-align:center">
     <div style="flex-direction: column; margin: auto 5px 5px 5px">
         <img src="./assets/python-logo.png" style="width: 110px"></img>
         <p>Python</p>
@@ -41,7 +41,7 @@
 
 ### Frameworks
 
-<div style="display: flex; margin: 20px; justify-content: center;text-align:center">
+<div style="display: flex; margin: 20px; align: center;text-align:center">
     <div style="flex-direction: column; margin: auto 5px 5px 5px">
         <img src="./assets/react-logo.png" style="width: 100px;"></img>
         <p style="margin:0px;">React</p>
@@ -71,7 +71,7 @@
 
 ### Editors
 
-<div style="display: flex; margin: 20px; justify-content: center;text-align:center">
+<div style="display: flex; margin: 20px; align: center;text-align:center">
     <div style="flex-direction: column; margin: auto 5px 5px 5px">
         <img src="./assets/vscode.png" style="width: 100px; margin: 5px"></img>
         <p style="margin:0px">VSCode</p>
@@ -82,7 +82,10 @@
     </div>
 </div>
 
-###
+### Highlighted Works
+
+__STILL ON PROGRESS :warning:__
+
 <!--
 **ntimesgurgel/ntimesgurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
