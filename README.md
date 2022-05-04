@@ -26,7 +26,7 @@
 
 <div style="display: flex; margin: 20px; align: center;text-align:center">
     <p>
-        <img src="./assets/react-logo.png" style="width: 100px"/>
+        <img src="./assets/react.png" style="width: 100px"/>
         <img src="./assets/django-logo.png" style="width: 80px"/>
         <img src="./assets/pandas-logo.png" style="width: 70px"/>
         <img src="./assets/tensorflow-logo.png" style="width: 100px"/>
