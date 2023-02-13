@@ -5,7 +5,7 @@
 - :zap: Electrical Engineer by formation;
 - :computer: Developer Enthusiast in the spare time;
 - :microscope: Master Student of Electrical Engineering at UFCG;
-- :
+- :speaker: :brazil: native :us: fluent :de: basic;
 - :headphones: Podcast addicted;
 
 <br/>
@@ -32,7 +32,6 @@
         <img src="./assets/sklearn-logo.png" style="width: 100px"/>
         <img src="./assets/tensorflow-logo.png" style="width: 100px"/>
         <img src="./assets/spring-boot-logo.svg" style="width: 100px"/>
-        
     </p>
 </div>
 
