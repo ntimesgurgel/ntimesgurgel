@@ -1,10 +1,11 @@
 # Welcome to my space :smile: <br/> Feel free to look around <br/> I'll bring you some coffee :coffee:
 ## About me :bust_in_silhouette:
 
-- 26 yo [he/him] from :brazil:;
+- 27 yo [he/him] from :brazil:;
 - :zap: Electrical Engineer by formation;
 - :computer: Developer Enthusiast in the spare time;
 - :microscope: Master Student of Electrical Engineering at UFCG;
+- :
 - :headphones: Podcast addicted;
 
 <br/>
@@ -26,11 +27,12 @@
 
 <div style="display: flex; margin: 20px; align: center;text-align:center">
     <p>
-        <img src="./assets/react.png" style="width: 100px"/>
-        <img src="./assets/django-logo.png" style="width: 80px"/>
+        <img src="./assets/angular-logo.png" style="width: 70px"/>
         <img src="./assets/pandas-logo.png" style="width: 70px"/>
+        <img src="./assets/sklearn-logo.svg" style="width: 100px"/>
         <img src="./assets/tensorflow-logo.png" style="width: 100px"/>
         <img src="./assets/spring-boot-logo.svg" style="width: 100px"/>
+        
     </p>
 </div>
 
@@ -39,7 +41,7 @@
 <div style="display: flex; margin: 20px; align: center;text-align:center">
     <p>
         <img src="./assets/vscode.png" style="width: 100px; margin: 5px"/>
-        <img src="./assets/eclipse.png" style="width: 100px; margin: 5px">
+        <img src="./assets/intellij-logo.png" style="width: 100px; margin: 5px">
     </p>
 </div>
 
