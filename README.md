@@ -29,7 +29,7 @@
     <p>
         <img src="./assets/angular-logo.png" style="width: 70px"/>
         <img src="./assets/pandas-logo.png" style="width: 70px"/>
-        <img src="./assets/sklearn-logo.svg" style="width: 100px"/>
+        <img src="./assets/sklearn-logo.png" style="width: 100px"/>
         <img src="./assets/tensorflow-logo.png" style="width: 100px"/>
         <img src="./assets/spring-boot-logo.svg" style="width: 100px"/>
         
