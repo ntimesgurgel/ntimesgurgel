@@ -2,9 +2,9 @@
 ## About me :bust_in_silhouette:
 
 - 27 yo [he/him] from :brazil:;
-- :zap: Electrical Engineer by formation;
+- :zap: Graduated in Electrical Engineering;
 - :computer: Developer Enthusiast in the spare time;
-- :microscope: Master Student of Electrical Engineering at UFCG;
+- :microscope: Electrical Engineering Msc Candidate at UFCG;
 - :speaker: :brazil: native :us: fluent :de: basic;
 - :headphones: Podcast addicted;
 
@@ -16,10 +16,10 @@
 
 <div style="display: flex; margin: 20px; align: center; text-align:center">
     <p>
-        <img src="./assets/python-logo.png" style="width: 110px"/>
-        <img src="./assets/java-logo.png" style="width: 90px"/>
-        <img src="./assets/rust-logo.png" style="width: 100px"/>
-        <img src="./assets/typescript-logo.png" style="width: 100px"/>
+        <img src="./assets/python-logo.png" style="height: 100px"/>
+        <img src="./assets/java-logo.png" style="height: 100px"/>
+        <img src="./assets/rust-logo.png" style="height: 100px"/>
+        <img src="./assets/typescript-logo.png" style="height: 100px"/>
     </p>
 </div>
 
@@ -27,20 +27,11 @@
 
 <div style="display: flex; margin: 20px; align: center;text-align:center">
     <p>
-        <img src="./assets/angular-logo.png" style="width: 70px"/>
-        <img src="./assets/pandas-logo.png" style="width: 70px"/>
-        <img src="./assets/sklearn-logo.png" style="width: 100px"/>
-        <img src="./assets/tensorflow-logo.png" style="width: 100px"/>
-        <img src="./assets/spring-boot-logo.svg" style="width: 100px"/>
-    </p>
-</div>
-
-### Editors
-
-<div style="display: flex; margin: 20px; align: center;text-align:center">
-    <p>
-        <img src="./assets/vscode.png" style="width: 100px; margin: 5px"/>
-        <img src="./assets/intellij-logo.png" style="width: 100px; margin: 5px">
+        <img src="./assets/angular-logo.png" style="height: 100px"/>
+        <img src="./assets/pandas-logo.png" style="height: 100px"/>
+        <img src="./assets/sklearn-logo.png" style="height: 100px"/>
+        <img src="./assets/tensorflow-logo.png" style="height: 100px"/>
+        <img src="./assets/spring-boot-logo.svg" style="height: 100px"/>
     </p>
 </div>
 
