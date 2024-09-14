@@ -1,11 +1,11 @@
 # Welcome to my space :smile: <br/> Feel free to look around <br/> I'll bring you some coffee :coffee:
 ## About me :bust_in_silhouette:
 
-- 27 yo [he/him] from :brazil:;
+- 29 yo [he/him] from :brazil:;
 - :zap: Graduated in Electrical Engineering;
 - :computer: Developer Enthusiast in the spare time;
-- :microscope: Electrical Engineering Msc Candidate at UFCG;
-- :speaker: :brazil: native :us: fluent :de: basic;
+- :microscope: Electrical Engineering Msc from UFCG :brazil:;
+- :speaker: :brazil: native :us: fluent :de: basic :cn: basic;
 - :headphones: Podcast addicted;
 
 <br/>
