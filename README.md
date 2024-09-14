@@ -43,5 +43,4 @@ __STILL ON PROGRESS :warning:__
 
 <p>
     <a href="https://www.linkedin.com/in/ntimesgurgel"><img src="./assets/linkedin.png" style="margin: 5px; width: 50px"></img></a>
-    <a href="https://twitter.com/ntimesgurgel"><img src="./assets/twitter.png" style="margin: 5px; width: 50px"></img></a>
 </p>
